@@ -1,0 +1,38 @@
+Location,Soil Type,Recommended plant species ,Reduced pollution in 5 years (%),Reduced pollution in 10 years (%)
+ITO,Sand loam,Peepal,30-40%,45-55%
+ITO,Sand loam,Banyan,40-50%,50-60%
+ITO,Sand loam,Ashoka,25-35%,35-45%
+ITO,Sand loam,Mango ,25-35%,35-45%
+ITO,Sand loam,Tulsi,15-20%,20-25%
+SIRIFORT,Alluvial,Peepal,40-50%,55-65%
+SIRIFORT,Alluvial,Neem,35-45%,50-60%
+SIRIFORT,Alluvial,Arjun ,30-40%,40-50%
+SIRIFORT,Alluvial,Ashoka,35-45%,45-55%
+SIRIFORT,Alluvial,Money plant ,10-15%,20-30%
+SIRIFORT,Alluvial, Aleo vera ,10-15%,17-25%
+JN STADIUM,Alluvial,Peepal,40-50%,55-65%
+JN STADIUM,Alluvial,Jamun,30-40%,50-60%
+JN STADIUM,Alluvial,Banyan,50-60%,60-70%
+JN STADIUM,Alluvial,Neem,35-45%,50-60%
+JN STADIUM,Alluvial,Mango,30-40%,40-50%
+JN STADIUM,Alluvial,money plant,15-20%,20-30%
+JN STADIUM,Alluvial,Alovera ,10-15%,15-20%
+JN STADIUM,Alluvial,Amla shrubs,25-35%,40-50%
+DTU,Rocky soil,Banyan ,50-60%,60-70%
+DTU,Rocky soil,Mango ,30-40%,40-50%
+DTU,Rocky soil,Neem,35-45%,50-60%
+DTU,Rocky soil,Peepal,40-50%,55-65%
+DTU,Rocky soil,Gulmohar,30-40%,50-60%
+DTU,Rocky soil,Ashoka,35-45%,50-60%
+DTU,Rocky soil,Money plant,15-20%,20-30%
+DTU,Rocky soil,Amla shrubs,25-35%,40-50%
+DTU,Rocky soil,Snake plant,15-25%,25-35%
+DWARKA,Clayey Soil,Banyan,50-60%,60-70%
+DWARKA,Clayey Soil,Mango,30-40%,40-50%
+DWARKA,Clayey Soil,Arjun,30-40%,40-50%
+DWARKA,Clayey Soil,Peepal,40-50%,55-65%
+DWARKA,Clayey Soil,Gulmohar,30-40%,50-60%
+DWARKA,Clayey Soil,Bougenvilla Shrubs,15-25%,25-35%
+DWARKA,Clayey Soil,Amla shrubs,25-35%,40-50%
+DWARKA,Clayey Soil,Snake plant ,15-25%,25-35%
+DWARKA,Clayey Soil,Hibicus shrubs,20-30%,30-40%
